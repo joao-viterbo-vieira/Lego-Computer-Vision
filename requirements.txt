@@ -1,0 +1,21 @@
+# Camera Calibration Requirements
+# Python 3.10+ required
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Data Analysis and Visualization
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.20.0
+
+# Optional: For Google Colab compatibility
+# google-colab  # Uncomment if running on Colab
