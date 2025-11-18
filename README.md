@@ -13,7 +13,6 @@ This project implements a complete computer vision pipeline for analyzing Lego b
 ```
 CV_Assign1/
 ├── LegoBrick_CV.ipynb      # Main Jupyter notebook with all exercises
-├── merge_notebooks.py       # Utility script to combine multiple notebooks
 ├── requirements.txt         # Python dependencies
 ├── Assign1_CV.pdf          # Assignment specification
 └── data/                    # Image datasets
